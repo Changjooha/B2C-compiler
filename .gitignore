@@ -1,0 +1,23 @@
+# Build outputs
+build/
+b2c
+*.o
+*.out
+
+# ANTLR generated source
+antlr4-cpp/
+
+# Generated translator output
+output.c
+output.cpp
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
