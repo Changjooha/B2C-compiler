@@ -1,20 +1,22 @@
-# Build outputs
-build/
+# Compiled files
 b2c
 *.o
 *.out
 
-# ANTLR generated source
+# ANTLR generated files
 antlr4-cpp/
 
-# Generated translator output
+# Generated output
 output.c
 output.cpp
+
+# Build directories
+build/
 
 # Logs
 *.log
 
-# Editor
+# IDE
 .vscode/
 .idea/
 
